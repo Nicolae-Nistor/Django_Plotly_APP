@@ -62,7 +62,7 @@ EUROSTAT API
 
 Contributions are welcome! To contribute to this project, follow these steps:
 
-1. Fork the repository: `https://github.com/Nicolae-01001110/Django_Plotly_APP.git`
+1. Fork the repository: `https://github.com/Nicolae-Nistor/Django_Plotly_APP.git`
 2. Create a new branch: `git checkout -b my-feature-branch`
 3. Make your changes and commit them: `git commit -am "Add new feature"`
 4. Push your changes to your fork: `git push origin my-feature-branch`
