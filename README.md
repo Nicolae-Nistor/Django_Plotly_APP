@@ -16,7 +16,7 @@ To run this project, you'll need Python installed on your machine.
 
 #Clone the repository:
 
-git clone `https://github.com/Nicolae-Nistor/Django_Plotly_APP.git`
+`git clone https://github.com/Nicolae-Nistor/Django_Plotly_APP.git`
 
 #Windows commands:
 1. Open the project folder in File Explorer, then right-click and select "Open in Terminal" or "Open PowerShell Window Here" depending on the version of Windows you are using.
@@ -53,9 +53,9 @@ git clone `https://github.com/Nicolae-Nistor/Django_Plotly_APP.git`
 
 
 # Technologies Used
-Python
-Django
-Plotly
+Python,
+Django,
+Plotly,
 EUROSTAT API
 
 # Contributing
