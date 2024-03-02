@@ -12,20 +12,36 @@ Integration with the EUROSTAT API
 
 # Setup
 
-To run this project, you'll need Python and Django installed on your machine.
+To run this project, you'll need Python installed on your machine.
 
 # Clone the repository:
 
-git clone `https://github.com/Nicolae-01001110/Django_Plotly_APP.git`
+git clone `https://github.com/Nicolae-Nistor/Django_Plotly_APP.git`
 
-# Install the project dependencies:
+#Windows commands:
+1. Open the project folder in File Explorer, then right-click and select "Open in Terminal" or "Open PowerShell Window Here" depending on the version of Windows you are using.
 
+2. Create a Virtual Environment
+py -m venv myenv
+
+3. Activate the Virtual Environment
+myenv\Scripts\activate.bat
+
+4. Install the required libraries
 pip install -r requirements.txt
 
-# Run the Django development server:
+5. Migrate the database
+py manage.py migrate
 
-python manage.py runserver
-Visit `http://localhost:8000/` in your web browser to view the application.
+6. Load data into database
+py manage.py load_indicator
+
+7. Run the server
+py manage.py runserver
+
+8. Open the project in your web browser by navigating to the following URL: 
+http://127.0.0.1:8000/
+
 
 # How to interact with the chart:
 1. Double-click on any country name to isolate the data for that country
