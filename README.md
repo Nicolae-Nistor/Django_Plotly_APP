@@ -52,5 +52,4 @@ Contributions are welcome! To contribute to this project, follow these steps:
 4. Push your changes to your fork: `git push origin my-feature-branch`
 5. Create a new pull request on GitHub.
 
-![Screenshot 2024-02-22 200209](https://github.com/Nicolae-01001110/Django_Plotly_APP/assets/143442016/fb45bc1c-2e2d-4b36-8573-5e0768ee3e49)
  
